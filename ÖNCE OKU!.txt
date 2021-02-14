@@ -1,0 +1,5 @@
+Bu altyapı sxrn'ye aittir.
+
+Önce Modülleri İndir.bat'ı sonra
+Başlat.bat I açıp çalıştırabilirsiniz.
+Ayarlar.json'u ayarlamayı unutmayın
